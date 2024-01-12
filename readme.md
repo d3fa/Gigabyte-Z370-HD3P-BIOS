@@ -1,4 +1,4 @@
-Mod bios **Gigabyte Z370 HD3P** for CPU QTJ0, QTJ1
+Mod bios **Gigabyte Z370 HD3P** for CPU QTJ0, QTJ1, QTj2
 Just Flash it from BIOS or Programming tools - Main BIOS (M)
 
 ![Coffetime setting](./scr/1.png)
