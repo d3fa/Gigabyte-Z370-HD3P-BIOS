@@ -1,0 +1,1 @@
+https://overclockers.ru/blog/NuJIevik/show/50322/razblokiruem-skrytye-nastrojki-bios
